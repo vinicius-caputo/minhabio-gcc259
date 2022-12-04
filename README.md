@@ -1,5 +1,6 @@
 # minhabio-gcc259
 
+<img src="./perfil.jpg" width="250" >
 
 ## Resumo
 Sempre fui interessado pelos computadores e esse interesse se aprofundou ao cursar o ensino médio, onde tive a oportunidade de participar da equipe de robótica local "Cafe-com-Byte". Dentro da equipe pude participar de competições de como o "Campeonato Brasileiro de Robótica" e da "Latin American Robotics Competition", a qual equipe conseguiu se consagrar campeã em 2017, 2018, 2019.
@@ -16,3 +17,6 @@ Atualmente curso Ciências da Computação na UFLA, participei de uma pequena pe
 ### **PagBank PagSeguro**
 - *Engenheiro de Software*
 
+## Links
+- [Linkedin](https://www.linkedin.com/in/vinicius-caputo/)
+- [Github](https://github.com/vinicius-caputo)
